@@ -3,14 +3,14 @@
 v1.6.0-STABLE_SOUL — Standalone Sandbox Shell
 A fast, lightweight terminal wrapper designed to run custom scripts and commands cleanly without slowing down your computer. It checks your system hardware, protects your workspace, and runs with zero background lag.
 
-#✨ Key Features
+# ✨ Key Features
 Zero Lag: Designed to use almost 0% of your computer's CPU power when sitting open.
 
 Smart Performance Modes: It checks if Virtualization is turned on in your computer settings. If it is active, it runs scripts in an isolated window (VIRTUAL_ISOLATED). If it is off, it safely uses basic processing threads (STANDARD_THREADED).
 
 Morale Anchor System: Requires a blank, empty file named bbo.ps1 to be in the same folder before it boots up to ensure the system is ready.
 
-#📁 Folder Layout
+# 📁 Folder Layout
 This app is 100% portable and runs entirely on its own. There is no need to install Python or look at raw scripts. Just make sure these files sit together in the same folder:
 
 📁 Your_Project_Folder/
@@ -21,7 +21,7 @@ This app is 100% portable and runs entirely on its own. There is no need to inst
  
  -your_script.py   # Put any scripts you want to run right here
 
-#🕹️ Shell Commands
+# 🕹️ Shell Commands
 Once you open IronSheetCore.exe and see the IRON_SHEET_SH > prompt, you can use these commands:
 
 run [script.py] – Launches a custom Python script safely. (Example: run game.py)
@@ -32,7 +32,7 @@ cls – Clears all old text off the terminal screen.
 
 exit – Closes the application completely.
 
-#🚨 Quick Fixes
+#  🚨 Quick Fixes
 🛑 Error: "Cores are Crying / Abort Halt"
 The Problem: The app cannot find the bbo.ps1 file.
 
