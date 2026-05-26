@@ -15,7 +15,7 @@ This app is 100% portable and runs entirely on its own. There is no need to inst
 
 📁 Your_Project_Folder/
 ├── IronSheetCore.exe    # The standalone application (Double-click to run)
-├── bbo.ps1              # Empty emotional support file (Must be here to boot!)
+├── bbo.ps1              # Empty file (Must be here to boot!)
 └── your_script.py       # Put any scripts you want to run right here
 🕹️ Shell Commands
 Once you open IronSheetCore.exe and see the IRON_SHEET_SH > prompt, you can use these commands:
