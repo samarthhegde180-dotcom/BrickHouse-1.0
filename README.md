@@ -14,6 +14,7 @@ Morale Anchor System: Requires a blank, empty file named bbo.ps1 to be in the sa
 This app is 100% portable and runs entirely on its own. There is no need to install Python or look at raw scripts. Just make sure these files sit together in the same folder:
 
 📁 Your_Project_Folder/
+
 IronSheetCore.exe # The standalone application (Double-click to run)
  bbo.ps1 # Empty file (Must be here to boot!)
  your_script.py   # Put any scripts you want to run right here
